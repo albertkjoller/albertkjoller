@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @albertkjoller
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Albert+Kjøller+Jacobsen;MSc.+Human-Centered+AI;Technical+University+of+Denmark)](https://git.io/typing-svg)
+
+- 👀 I’m interested in Machine Learning and interpretability of models. 
+- 🌱 I’m currently learning about Deep Generative Models and Machine Learning for Signal Processing.
+- 📫 Reach me at albertkjoller@protonmail.com 
+
 
 <!---
 albertkjoller/albertkjoller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+- 👋 Hi, I’m @albertkjoller
+- 💞️ I’m looking to collaborate on ...
+
 --->
