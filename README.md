@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Albert+Kjøller+Jacobsen;MSc.+Human-Centered+AI;@+Technical+University+of+Denmark)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Albert+Kjøller+Jacobsen;Studying+MSc.+Human-Centered+AI;@+Technical+University+of+Denmark)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Machine Learning and interpretability of models. 
 - 🌱 I’m currently learning about Deep Generative Models and Machine Learning for Signal Processing.
