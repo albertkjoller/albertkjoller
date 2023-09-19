@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Albert+Kjøller+Jacobsen;Studying+MSc.+Human-Centered+AI;@+Technical+University+of+Denmark)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Machine Learning and interpretability of models. 
-- 🌱 I’m currently working with Reinforcement Learning for Energy Modeling, Bayesian Machine Learning, Responsible AI and Deep Generative Modeling.
+- 🌱 I’m currently working with Active Bayesian Deep Learning, Machine Learning (e.g. Reinforcement Learning) for Energy Modeling and Signal Processing and Deep Generative Modeling.
 - 📫 Reach me at albertkjoller@protonmail.com 
 
 
