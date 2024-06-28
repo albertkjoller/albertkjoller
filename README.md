@@ -1,8 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Albert+Kjøller+Jacobsen;Studying+MSc.+Human-Centered+AI;@+Technical+University+of+Denmark)](https://git.io/typing-svg)
 
-- 👀 I’m interested in Probabilistic Machine Learning and Generative Modeling. 
-- 🌱 I’m currently working with interpretability of Transformer models.
+- 👀 I’m interested in Probabilistic Machine Learning, Deep Learning theory and Explainable AI. 
+- 🌱 I’m currently working with Differential Geometry in Deep Learning and interpretability of Transformer models.
 - 📫 Reach me at albertkjoller@protonmail.com 
 
 
