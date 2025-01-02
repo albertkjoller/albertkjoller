@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Albert+Kjøller+Jacobsen;Studying+MSc.+Human-Centered+AI;@+Technical+University+of+Denmark)](https://git.io/typing-svg)
 
-- 👀 I’m interested in Probabilistic Machine Learning, Deep Learning theory and Explainable AI. 
-- 🌱 I’m currently working with Differential Geometry in Deep Learning and redundancy of Transformer models.
-- 📫 Reach me at albertkjoller@protonmail.com 
+- 👀 I’m interested in deep learning theory, geometric and probabilistic machine learning and explainable AI. 
+- 🌱 I’m currently working with differential geometry in deep learning optimization.
+- 📫 Reach me at ```name@protonmail.com``` by replacing name with ```albertkjoller```
 
 
 <!---
