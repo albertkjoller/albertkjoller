@@ -1,5 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Albert+Kjøller+Jacobsen;Studying+MSc.+Human-Centered+AI;@+Technical+University+of+Denmark)](https://git.io/typing-svg)
+<!--- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Albert+Kjøller+Jacobsen;Studying+MSc.+Human-Centered+AI;@+Technical+University+of+Denmark)](https://git.io/typing-svg) --->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Albert+Kjøller+Jacobsen)](https://git.io/typing-svg)
+
 
 - 👀 I’m interested in deep learning theory, geometric and probabilistic machine learning and explainable AI. 
 - 🌱 I’m currently working with differential geometry in deep learning optimization.
