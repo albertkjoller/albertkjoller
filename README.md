@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in deep learning theory, geometric and probabilistic machine learning and explainable AI. 
 - 🌱 I’m currently working with differential geometry in deep learning optimization.
-- 📫 Reach me at ```name@protonmail.com``` by replacing ```name``` with ```albertkjoller```
+- 📫 Reach me at ```name@dtu.dk``` by replacing ```name``` with ```akjja```
 
 
 <!---
