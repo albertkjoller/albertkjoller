@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Albert+Kjøller+Jacobsen)](https://git.io/typing-svg)
 
 
-- 👀 I’m interested in deep learning theory, geometric and probabilistic machine learning and explainable AI. 
-- 🌱 I’m currently working with differential geometry in deep learning optimization.
+- 👀 I’m interested in deep learning theory, probabilistic machine learning and optimization.
+- 🌱 My work focuses on how concepts from differential geometry can be used in approximate Bayesian inference and deep learning theory.
 - 📫 Reach me at ```name@dtu.dk``` by replacing ```name``` with ```akjja```
 
 
